@@ -42,4 +42,4 @@
 
 ## GitHub Stats :
 
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CtrCodex-M&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
+![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CtrCodex&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
