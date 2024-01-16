@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi there I'm TheAllRounder66👋
+<div align="center">
+<div>
+
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/lokeshwaran-m/)](https://www.linkedin.com/in/bradly-facey-30b148238/)
+[![Instagram Badge](https://img.shields.io/badge/-Insta-ae08ff?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/lokesh_m2003/)](https://www.instagram.com/ctrcodex/)
+
+
+</div>
+</div>
+
 
 ## About Me
 - I'm a Developer and calisthenics althlete who likes Linux, Manga and Innovative Technologies.
