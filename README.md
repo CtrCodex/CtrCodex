@@ -29,19 +29,20 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=red)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3&logoColor=blue)
 
-### DevOps & Cloud Tools:
+### DevOps & Cloud Tools :
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
 
-### Tools:
+### Tools :
 
 ![vscode](https://img.shields.io/badge/VScode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
 
 
 ## GitHub Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CtrCodex)](https://github.com/CtrCodex/github-readme-stats&show_icons=true&theme=dark)
+[![CtrCodex's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CtrCodex&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/CtrCodex/github-readme-stats#gh-dark-mode-only)
+
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CtrCodex&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
