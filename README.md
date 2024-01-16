@@ -45,7 +45,7 @@
 <div>
   
 ![CtrCodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CtrCodex&show_icons=true&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrCodex&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrCodex&layout=compact&theme=dark#gh-dark-mode-only)
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CtrCodex&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
 
