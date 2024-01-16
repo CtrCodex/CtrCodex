@@ -42,9 +42,10 @@
 
 ## GitHub Stats :
 
+<div>
 <a href="https://github.com/CtrCodex/github-readme-stats#gh-dark-mode-only">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CtrCodex&show_icons=true&theme=dark#gh-dark-mode-only"/>
 </a>
-
+</div>
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CtrCodex&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
