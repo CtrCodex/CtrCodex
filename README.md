@@ -42,7 +42,13 @@
 
 ## GitHub Stats :
 
-[![CtrCodex's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=CtrCodex&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/CtrCodex/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrCodex&layout=donut)](https://github.com/CtrCodex/github-readme-stats)
+<a href="https://github.com/CtrCodex/github-readme-stats#gh-dark-mode-only">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CtrCodex&show_icons=true&theme=dark#gh-dark-mode-only"/>
+</a>
+
+<a href="https://github.com/CtrCodex/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CtrCodex&layout=compact&langs_count=8&card_width=320" />
+</a>
+
 
 ![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CtrCodex&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
