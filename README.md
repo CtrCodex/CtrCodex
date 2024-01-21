@@ -3,7 +3,7 @@
 <div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=black&link=https://www.linkedin.com/in/bradly-facey-30b148238/)](https://www.linkedin.com/in/bradly-facey-30b148238/)
-[![Instagram Badge](https://img.shields.io/badge/-Insta-ae08ff?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/ctrcodex/)](https://www.instagram.com/ctrcodex/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-ae08ff?style=flat&logo=instagram&logoColor=black&link=https://www.instagram.com/ctrcodex/)](https://www.instagram.com/ctrcodex/)
 
 
 </div>
