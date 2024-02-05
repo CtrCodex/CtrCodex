@@ -38,6 +38,7 @@
 ### Tools :
 
 ![vscode](https://img.shields.io/badge/VScode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
+![notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=blue)
 
 
 ## GitHub Stats :
