@@ -13,7 +13,7 @@
 ## About Me
 - I'm a Developer and calisthenics althlete who likes Linux, Manga and Innovative Technologies.
 - I dedicate myself to my craft as much as possible to better myself and skills
-- I am a believer and follower of the one true God, Jesus Christ.
+- I am a believer and follower of the one true God, Yahweh.
 
 ---
 > Commit to the LORD whatever you do, and he will establish your plans.
