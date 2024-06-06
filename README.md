@@ -35,7 +35,7 @@
 
 ### Tools :
 
-[![Main OS](https://img.shields.io/badge/OS-Windows_11-black?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)
+![Main OS](https://img.shields.io/badge/OS-Windows_11-black?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)
 ![vscode](https://img.shields.io/badge/VScode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
 ![notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)
 ![tradingview](https://img.shields.io/badge/Tradingview-black?style=flat-square&logo=tradingview&logoColor=white)
