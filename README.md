@@ -35,12 +35,15 @@
 
 ### Tools :
 
+[![Main OS](https://img.shields.io/badge/OS-Windows_11-informational?style=flat&logo=Microsoft&logoColor=blue&color=1bdce3)](https://www.microsoft.com/en-us/windows?wa=wsignin1.0)
 ![vscode](https://img.shields.io/badge/VScode-black?style=flat-square&logo=visualstudiocode&logoColor=blue)
 ![notion](https://img.shields.io/badge/Notion-black?style=flat-square&logo=notion&logoColor=white)
 ![tradingview](https://img.shields.io/badge/Tradingview-black?style=flat-square&logo=tradingview&logoColor=white)
 ![virtualbox](https://img.shields.io/badge/Virtualbox-black?style=flat-square&logo=oraclevmvirtualboxw&logoColor=white)
+[![Video Editing](https://img.shields.io/badge/Editing-Davinci_Resolve-informational?style=flat&logo=julia&color=c500ff)](https://www.blackmagicdesign.com/products/davinciresolve/)
 
 ## GitHub Stats :
+
 <div align="center">
 <div>
   
