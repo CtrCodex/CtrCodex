@@ -1,4 +1,4 @@
-## Hi there, I'm CtrCodex👋
+## Hi, I'm Bradly Facey👋
 <div align="center">
 <div>
 
