@@ -15,10 +15,9 @@ I’ve always been fascinated by technology, and my passion for programming was 
 I was curious about how things worked, like weather stations and the tech behind them. That curiosity led me to programming, where I’m now primarily focused on Python.
 
 What excites me the most about being a developer is the problem-solving process and the thrill of creating solutions. There’s nothing quite like overcoming a challenge, no matter how long it takes, 
-and turning that solution into a project that’s useful and functional. My goal is to create something I’m proud of—something innovative and valuable.
+and turning that solution into a project that’s useful and functional. My goal is to create something I’m proud of...something innovative and valuable.
 
-One project I’ve started is a command line interface tool, and although it's still in progress, 
-it's a step toward building something meaningful. I’m always looking for new ways to expand my skills and take on exciting challenges in development.
+
 
 ---
 > Commit to the LORD whatever you do, and he will establish your plans.
