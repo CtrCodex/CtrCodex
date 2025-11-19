@@ -46,15 +46,4 @@ and turning that solution into a project that’s useful and functional. My goal
 ![virtualbox](https://img.shields.io/badge/Virtualbox-black?style=flat-square&logo=oraclevmvirtualboxw&logoColor=white)
 [![Video Editing](https://img.shields.io/badge/Editing-Davinci_Resolve-informational?style=flat&logo=julia&color=c500ff)](https://www.blackmagicdesign.com/products/davinciresolve/)
 
-## GitHub Stats :
 
-<div align="center">
-<div>
-  
-![CtrCodex's GitHub stats](https://github-readme-stats.vercel.app/api?username=CtrCodex&show_icons=true&theme=dark#gh-dark-mode-only)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CtrCodex&layout=compact&theme=dark#gh-dark-mode-only)
-
-![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CtrCodex&theme=github-dark&custom_title=Loki%20Activity%20Graph&hide_border=true)
-
-</div>
-</div>
